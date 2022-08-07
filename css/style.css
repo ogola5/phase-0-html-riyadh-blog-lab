@@ -6,27 +6,27 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: blue;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 150%;
 }
 
 .wrapper {
   margin: 0 auto;
   width: 60%;
-  padding-bottom: 40px;
+  padding-bottom: 50px;
 }
 
 #content {
-  padding: 20px;
+  padding: 30px;
   background: rgba(255,255,255,.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: green;
 }
 
 h1 {
@@ -56,8 +56,9 @@ p {
 }
 
 a {
-  color: black;
+  color: blueviolet;
   text-decoration: none;
+  text-shadow: 0ch;
 }
 
 a:hover {
